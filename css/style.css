@@ -1,0 +1,132 @@
+.body{
+    background-color: rgb(242, 241, 241);
+    font-family: 'Times New Roman', Times, serif;
+}
+#block1, #block2-1, #block2-2, #block2-3, #block3, #block4, #block5{
+    background-color: white;
+}
+
+#block2-1{
+    height: 150px;
+}
+
+.wild-img1 img{
+    width: 100%;
+    height: 450px;
+}
+#img1-des h2{
+    margin: 20px; 
+    font-weight: bold;
+}
+#img1-des p{
+    margin: 20px;
+}
+.read-more{
+    font-size: 18px;
+    margin-left:  20px;
+    text-transform: uppercase;
+}
+.read-more .icon-right-arrow{
+    font-size: 18px;
+    vertical-align: middle;
+    margin-left: 2px;
+}
+#search-box{
+    width: 290px;
+    height: 55px;
+    margin: 40px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(249, 246, 246);
+}
+.icon-search{
+    margin-left: -85px;
+}
+#heading{
+    font-size: 20px;
+    margin: 15px;
+    font-weight: bold;
+}
+#list{
+    list-style: none;
+    line-height: 2em;
+}
+.wild-img2 img{
+    width: 100%;
+    height: 300px;
+}
+
+#img-des h2{
+    margin: 15px; 
+    font-weight: bold;
+}
+#img-des p{
+    margin: 15px;
+}
+
+
+/*Bootstrap Grid Task2*/
+#icon-1{
+    background-color: rgb(69, 4, 69);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.far,.fas{
+    color: white;
+    font-size: 50px;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+#icon-2{
+    background-color: rgb(48, 161, 59);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#icon-3{
+    background-color: rgb(12, 125, 212);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#icon-4{
+    background-color: rgb(7, 45, 35);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#icon-5{
+    background-color: rgb(35, 38, 237);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#icon-6{
+    background-color: rgb(236, 71, 71);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#icon-7{
+    background-color: rgb(139, 8, 104);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#icon-8{
+    background-color: rgb(247, 103, 103);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+#icon-9{
+    background-color: rgb(60, 138, 106);
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
